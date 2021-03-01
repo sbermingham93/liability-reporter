@@ -1,0 +1,47 @@
+[
+  {
+    "betId": "Bet-10",
+    "betTimestamp": "1489490156000",
+    "selectionId": "1",
+    "selectionName": "My Fair Lady",
+    "stake": 0.5,
+    "price": 6.0,
+    "currency": "GBP"
+  },
+  {
+    "betId": "Bet-11",
+    "betTimestamp": "1489490156000",
+    "selectionId": "2",
+    "selectionName": "Hurricane Fly",
+    "stake": 100.0,
+    "price": 6.0,
+    "currency": "GBP"
+  },
+  {
+    "betId": "Bet-12",
+    "betTimestamp": "1489490156000",
+    "selectionId": "4",
+    "selectionName": "Don Cossack",
+    "stake": 50.0,
+    "price": 5.0,
+    "currency": "EUR"
+  },
+  {
+    "betId": "Bet-13",
+    "betTimestamp": "1489490156000",
+    "selectionId": "4",
+    "selectionName": "Don Cossack",
+    "stake": 50.0,
+    "price": 5.0,
+    "currency": "EUR"
+  },
+  {
+    "betId": "Bet-14",
+    "betTimestamp": "1489490156000",
+    "selectionId": "1",
+    "selectionName": "My Fair Lady",
+    "stake": 30.0,
+    "price": 6.0,
+    "currency": "GBP"
+  }
+]
